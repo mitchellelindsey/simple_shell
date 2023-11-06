@@ -33,7 +33,7 @@ typedef struct __attribute__((__packed__))
 typedef struct __attribute__((__packed__))
 {
 	char *cmd;
-	void (*func)(shelldata_t *mytype, char **arguments);
+	void (*func)(shellinput_t *mytype, char **arguments);
 } sysFunction_t;
 
 #endif
