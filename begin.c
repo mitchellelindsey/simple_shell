@@ -8,7 +8,7 @@
  * Return: nothing
  **/
 
-void begin(shelldata_t *mytype)
+void begin(shellinput_t *mytype)
 {
 	initiatePrompt(mytype);
 }

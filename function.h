@@ -48,7 +48,7 @@ void releaseMemoryPointer(void **pointer);
 void binaryExit(shellinput_t *mytype, char **args);
 int manageNumbers(shellinput_t *mytype, char *argument);
 void run(char *cmd, char **argu, shellinput_t *mytype, char *buffer);
-int getCurrentDir(char *command, char **argu, char *buff, shellinput_t *mytype);
+int getCurrentDir(char *comm, char **argu, char *buff, shellinput_t *mytype);
 void issue(shellinput_t *mytype);
 char *selectMessage(shellinput_t mytype);
 void additionalError(shellinput_t *mytype, char *more);
