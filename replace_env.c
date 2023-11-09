@@ -1,4 +1,5 @@
 #include "shellinput.h"
+#include <stddef.h>
 
 /**
  * subEnv - This funcrion is used to replace environment variable
