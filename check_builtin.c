@@ -8,7 +8,7 @@
  * Return: 1 for buitin and 0 if not
  **/
 
-int verifyBuiltin(shelldata_t *mytype, char **args)
+int verifyBuiltin(shellinput_t *mytype, char **args)
 {
 	int j, space;
 

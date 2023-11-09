@@ -1,9 +1,9 @@
 #include "function.h"
 #include "shellinput.h"
+
 /**
  * additionalError - This function Prints the error
  * message with extra/more information about the error
- *
  * @mytype: a struct that gives info about the shell
  * also decleares a type for this info
  * @more: The Extra information or more info about the error
