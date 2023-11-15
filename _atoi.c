@@ -1,4 +1,4 @@
-#include "shellinputs.h"
+#include "shellinput.h"
 
 /**
  * interactive - returns true if shell is interactive mode

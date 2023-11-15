@@ -1,4 +1,4 @@
-#include "shellinputs.h"
+#include "shellinput.h"
 
 /**
  * _myexit - exits the shell

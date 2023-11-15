@@ -1,4 +1,4 @@
-#include "shellinputs.h"
+#include "shellinput.h"
 
 /**
  * _erratoi - converts a string to an integer
